@@ -1,6 +1,5 @@
 
 
-
 Erik - Example Voting App 3
 =========
 
